@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello Florans!
+
+Hobot here, I like Node.js and coffescript etc....
